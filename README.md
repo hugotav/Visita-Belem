@@ -5,3 +5,7 @@ Aplicativo mobile para Android “Visita Belém”, o qual apresenta um guia com
   <img2 src="https://user-images.githubusercontent.com/99658673/198099604-03d79327-2357-47ec-9544-acd6b99e41d5.jpg" width="30%" />
   <img3 src="https://user-images.githubusercontent.com/99658673/198099607-a0ba6ea2-dc23-47d9-b3b4-26f1b99be64d.jpg" width="30%" />
 </div>
+
+<div align="center">
+  <img2 src="https://user-images.githubusercontent.com/99658673/198099604-03d79327-2357-47ec-9544-acd6b99e41d5.jpg" width="30%" />
+</div>
