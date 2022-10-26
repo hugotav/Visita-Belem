@@ -1,0 +1,1 @@
+Aplicativo mobile para Android “Visita Belém”, o qual apresenta um guia com os principais pontos turísticos da cidade Belém-PA e suas respectivas informações de visitação. O app foi desenvolvido utilizando HTML, CSS, JavaScript juntamente com o framework React Native.
